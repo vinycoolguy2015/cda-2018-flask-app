@@ -1,5 +1,5 @@
 FROM python:3.5-slim 
-LABEL maintainer="fernando@linuxacademy.com"
+LABEL maintainer="finalaws1989@gmail.com"
 USER root
 WORKDIR /app 
 ADD . /app 
